@@ -1,12 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home } from "./Home";
+import ScrollUpButton from "react-scroll-up-button";
 import { About } from "./About";
-import { Contact } from "./Contact";
+import Contact from "./Contact";
 import { noMatch } from "./noMatch";
 import { NavigationBar } from "./components/navigationBar";
 import { Footer } from "./components/footer";
-
 import { courses } from "./Courses";
 import { trainings } from "./Trainings";
 import Styled from "styled-components";
@@ -45,7 +45,12 @@ function App() {
             <Route component={noMatch} />
           </Switch>
         </Router>
-
+        <ScrollUpButton
+          AnimationDuration={500}
+          ContainerClassName="ScrollUpButton__Container"
+          TransitionClassName="ScrollUpButton__Toggled"
+          style={{ "background-color": "#24963e" }}
+        />
         <Footer className="footer" />
       </div>
     </Styles>

@@ -25,11 +25,7 @@ const Styles = Styled.div`
 }
 
 .titleBox{
-  font-family: 'Hepta Slab', serif;
-  font-family: 'Nanum Gothic', sans-serif;
-  font-family: 'Pacifico', cursive;
-  font-family: 'Press Start 2P', cursive;
-  font-family: 'Marck Script', cursive;
+  font-family: 'IBM Plex Sans', sans-serif;
   text-align:center;
  
 }
@@ -67,7 +63,7 @@ export const courses = () => (
                 title: "C PROGRAMMING",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: c,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Learn to code king of programming language 'C'. No matter what you know, it's from scratch.",
                 currentPrice: "₹1500/-",
@@ -81,7 +77,7 @@ export const courses = () => (
                 title: "JAVA",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: java,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Start learning java now, top level platform independent programming language. We start from scratch.",
                 currentPrice: "₹1500/-",
@@ -95,7 +91,7 @@ export const courses = () => (
                 title: "PYTHON",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: python,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Top trending programming language in the world in which machine learninig and artificial intelligence algorithms are written. Starts from scratch.",
                 currentPrice: "₹1500/-",
@@ -111,7 +107,7 @@ export const courses = () => (
                 title: "JAVASCRIPT",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: js,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Learn Javascript to enhance your webpage from scratch.",
                 currentPrice: "₹1500/-",
@@ -125,7 +121,7 @@ export const courses = () => (
                 title: "HTML/CSS",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: html,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Want to develop your own website? Dive into this course to get complete knowlwdge of website design and become a web designer.",
                 currentPrice: "₹1500/-",
@@ -139,7 +135,7 @@ export const courses = () => (
                 title: "DATA STRUCTURES USING JAVA",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: ds,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Develop data structure skill, the core subject of computer science to crack interviews and MNC tests using JAVA.",
                 currentPrice: "₹1500/-",
@@ -161,7 +157,7 @@ export const courses = () => (
                 title: "ARABIC LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: arabic,
-                offer: "25% off till 30 sep",
+                offer: "25% off till 30 oct",
                 description:
                   "Learn arabic language direct from experts by just sitting at your home.",
                 currentPrice: "₹1500/-",
@@ -175,7 +171,7 @@ export const courses = () => (
                 title: "URDU LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: urdu,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Learn urdu language direct from qualified mentors by just sitting at your home.",
                 currentPrice: "₹1000/-",
@@ -189,7 +185,7 @@ export const courses = () => (
                 title: "QURANIC TAJWEED",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: quran,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Understand pronounciation and tajweed direct from huffaz and quraa.",
                 currentPrice: "₹1000/-",
@@ -205,7 +201,7 @@ export const courses = () => (
                 title: "BENGALI LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: bengali,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Learn bengali language direct from experts by just sitting at your home.",
                 currentPrice: "₹1000/-",
@@ -219,7 +215,7 @@ export const courses = () => (
                 title: "HINDI LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: hindi,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Learn hindi language direct from qualified mentors by just sitting at your home.",
                 currentPrice: "₹1000/-",
@@ -233,7 +229,7 @@ export const courses = () => (
                 title: "TELUGU LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: telugu,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Learn telugu language direct from qualified mentors by just sitting at your home.",
                 currentPrice: "₹1000/-",
@@ -249,7 +245,7 @@ export const courses = () => (
                 title: "KANNADA LANGUAGE",
                 link: "https://forms.gle/oDVE1wTojHabSaxcA",
                 image: kannada,
-                offer: "33% off till 30 sep",
+                offer: "33% off till 30 oct",
                 description:
                   "Learn kannada language direct from experts by just sitting at your home.",
                 currentPrice: "₹1000/-",

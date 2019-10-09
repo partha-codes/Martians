@@ -15,11 +15,7 @@ const Styles = Styled.div`
 }
 
 .titleBox{
-  font-family: 'Hepta Slab', serif;
-  font-family: 'Nanum Gothic', sans-serif;
-  font-family: 'Pacifico', cursive;
-  font-family: 'Press Start 2P', cursive;
-  font-family: 'Marck Script', cursive;
+  font-family: 'IBM Plex Sans', sans-serif;
   text-align:center;
  
 }
@@ -56,7 +52,7 @@ export const trainings = () => (
                 title: "WEB DEVELOPMENT TRAINING ",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: img2,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "Learn web development. Connect with our team and get mentorship, we are here to guide you with all the technology experts. It covers all things from A to Z for your project.",
                 currentPrice: "₹2000/- ",
@@ -70,7 +66,7 @@ export const trainings = () => (
                 title: "ANDROID APPLICATION DEVELOPMENT TRAINING",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: img3,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "We provide live online training sessions on android development to curious students who want to learn app development with hands-on project experience.",
                 currentPrice: "₹2000/-",
@@ -84,7 +80,7 @@ export const trainings = () => (
                 title: "MECHANICAL PARTS DESIGN TRAINING",
                 link: "https://forms.gle/96oYVsn5pmLA27TKA",
                 image: img4,
-                offer: "50% off till 30 sep",
+                offer: "50% off till 30 oct",
                 description:
                   "We have design developers to train you from beginner to advanced level of part designing techniques using CATIA and SOLIDWORKS.",
                 currentPrice: "₹3000/-",

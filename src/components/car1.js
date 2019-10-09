@@ -47,6 +47,7 @@ height:340px;
   right:75px;
   position: absolute;
   bottom:2px;
+  
 }
 .offer{
 
