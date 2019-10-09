@@ -72,7 +72,7 @@ export const CarouselHome = () => (
       <Carousel.Item>
         <a href="/trainings">
           <img
-            className="d-block w-100"
+            className="d-block w-100"//
             src={slide3}
             alt="Third slide"
             height="300px"
